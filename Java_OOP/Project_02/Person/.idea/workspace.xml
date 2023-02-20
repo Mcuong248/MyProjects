@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0105c851-bb54-47dd-9c6c-4f1f2d98c227" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Project_04/SortArrayList/ComparableExample/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java_Core/Project_01/Demo/FirstApp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java_Core/Project_01/Demo/FirstApp/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java_Core/Project_04/out/production/Project_04/ForLoop.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java_Core/Project_04/out/production/Project_04/ForLoop.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java_Core/Project_04/src/ForLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java_Core/Project_04/src/ForLoop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project_04/InterfaceExample/src/IPerson.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project_04/InterfaceExample/src/IPerson.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project_04/InterfaceExample/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project_04/InterfaceExample/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project_04/InterfaceExample/src/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project_04/InterfaceExample/src/Person.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="299Iti7JBPUAfeQnSv1JBv3SN9b" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/My_Project/My_Projects/Java_OOP/Project_02/Person/Person"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0105c851-bb54-47dd-9c6c-4f1f2d98c227" name="Changes" comment="" />
+      <created>1652519093097</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1652519093097</updated>
+      <workItem from="1652519094604" duration="322000" />
+      <workItem from="1652521798501" duration="122000" />
+      <workItem from="1652522034367" duration="84000" />
+      <workItem from="1658197551302" duration="24000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
